@@ -1,7 +1,6 @@
-Welcome to Sir Apollo Kaggwa Schools, Our schools that offers holistic and quality primary education in Uganda. Our children excel in National exams with only first grades and we are proud of this.
+Sir Apollo Kaggwa Schools are private primary schools registered with the ministry of education and sports with a UNEB centre number offering Education to Ugandan and non-Ugandan children based on the Ugandan Curriculum and equipping them with necessary life skills.
 
-Not only that but also our pupils are equipped with skills in swimming, ball games, athletics, home economics, debate and computer knowledge.
-
+We provide a stimulating and credible learning environment which will produce dynamic and talented young Ugandan citizens and ensure all learners are equipped to meet the challenges of life”.
 <!---
 sakschools/sakschools is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
